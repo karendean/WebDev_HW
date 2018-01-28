@@ -1,13 +1,13 @@
-#Chocolate Babka
-###1 Rating
-###Published February 2016
+# Chocolate Babka
+### 1 Rating
+### Published February 2016
 Ingredients Dough
-*1⁄2 cup whole milk, warmed
-*1 1⁄4-ounce envelope active dry yeast (about 21⁄4 teaspoons)
-*1⁄4 cup granulated sugar, plus more
-*1 large egg
-*1 large egg yolk
-*1⁄2 teaspoon kosher salt
+* 1⁄2 cup whole milk, warmed
+* 1 1⁄4-ounce envelope active dry yeast (about 21⁄4 teaspoons)
+* 1⁄4 cup granulated sugar, plus more
+* 1 large egg
+* 1 large egg yolk
+* 1⁄2 teaspoon kosher salt
 2 cups all-purpose flour, plus more for surface
 7 tablespoons unsalted butter, room temperature, cut into pieces, plus more for bowl
 Filling and Assembly
