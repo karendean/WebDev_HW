@@ -1,0 +1,24 @@
+.class-name {
+    height: 100px;
+    padding: 60px 0px;
+}
+div {
+    background: #FFF;
+    margin-left: 15px;
+}
+h1   {color: red;}
+h1   {letter-spacing: 4px}
+header {color: red;}
+#myelement {
+    flex-direction: column;
+    box-shadow: inset 2px 2px 4px 0px rgba(255, 0, 0, 0.5);
+    border-width: 3px;
+footers:  {
+    background-color: #f1f1f1;
+    padding: 10px;
+    text-align: center;
+}
+}
+div {
+    color: black;
+}
