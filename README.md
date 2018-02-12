@@ -1,2 +1,3 @@
 # WebDev_HW
-Class Files 
+Link to my blog: https://we-webdevblog-posts.tumblr.com/
+Karen Dean 
